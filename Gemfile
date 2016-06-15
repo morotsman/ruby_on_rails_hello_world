@@ -49,3 +49,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'rspec-core'
 gem 'selenium-webdriver'
 gem 'rspec-expectations'
+gem 'sqlite3'
