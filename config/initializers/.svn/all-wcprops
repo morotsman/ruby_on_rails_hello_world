@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/config/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/config/initializers/inflections.rb
+END
+wrap_parameters.rb.tt
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/config/initializers/wrap_parameters.rb.tt
+END
+cookies_serializer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/config/initializers/cookies_serializer.rb
+END
+session_store.rb.tt
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/config/initializers/session_store.rb.tt
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/config/initializers/backtrace_silencers.rb
+END
+assets.rb.tt
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/config/initializers/assets.rb.tt
+END
+filter_parameter_logging.rb
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/config/initializers/filter_parameter_logging.rb
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/config/initializers/mime_types.rb
+END

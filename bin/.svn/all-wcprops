@@ -1,0 +1,30 @@
+#!/usr/bin/env ruby.exe
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/bin
+END
+setup
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/bin/setup
+END
+rake
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/bin/rake
+END
+bundle
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/bin/bundle
+END
+rails
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/bin/rails
+END

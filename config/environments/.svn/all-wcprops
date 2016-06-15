@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/config/environments
+END
+test.rb.tt
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/config/environments/test.rb.tt
+END
+development.rb.tt
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/config/environments/development.rb.tt
+END
+production.rb.tt
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/b360/!svn/ver/22795/trunk/tools/gems/gems/railties-4.2.5/lib/rails/generators/rails/app/templates/config/environments/production.rb.tt
+END
