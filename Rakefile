@@ -42,12 +42,12 @@ end
 task :execute_selenium do
   puts "Running selenium"
   result = system("rspec selenium_test.rb")
-  puts "Result from selenium"  + result.to_s
-  if result == true
+  puts "Result from selenium: "  + result.to_s
+  if result == true then
     0
   else
     puts $?
-	1
+	throw "Selenium test failed"
   end
 
 end
