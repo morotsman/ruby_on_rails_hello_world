@@ -41,7 +41,10 @@ end
 
 task :execute_selenium do
   puts "Running selenium"
-  system("rspec selenium_test.rb")
+  result = system("rspec selenium_test.rb")
+  puts "Result from selenium"  + result.to_s
+  puts $?
+  puts $?.exitstatus
 end
 
 task :stop_server do
