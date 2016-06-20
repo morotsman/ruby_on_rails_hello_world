@@ -47,7 +47,7 @@ task :execute_selenium do
     0
   else
     puts $?
-	throw "Selenium test failed"
+	fail "Selenium test failed"
   end
 
 end
