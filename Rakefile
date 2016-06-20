@@ -43,7 +43,7 @@ task :execute_selenium do
   puts "Running selenium"
   result = system("rspec selenium_test.rb")
   puts "Result from selenium"  + result.to_s
-  if result == false
+  if result == true
     0
   else
     puts $?
