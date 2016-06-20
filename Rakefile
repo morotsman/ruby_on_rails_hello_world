@@ -11,7 +11,7 @@ def server_ready? _url
     url = URI.parse(_url)
     req = Net::HTTP.new(url.host, url.port)
     res = req.request_head(url.path)
-    res.code == "200"
+    res.code == "200" || res.code == "500"
   rescue Errno::ECONNREFUSED
     false
   end
