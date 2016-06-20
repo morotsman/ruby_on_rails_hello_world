@@ -29,6 +29,7 @@ end
 task :start_server do
   puts "Starting server"
 
+  system("rake db:migrate")
   Thread.new { system("rails server") }
   
   until server_ready?("http://localhost:3000/") do
